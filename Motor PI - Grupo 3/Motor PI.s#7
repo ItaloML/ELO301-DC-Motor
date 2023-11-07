@@ -405,7 +405,7 @@ Source: &lt;a href="https://www.molex.com/pdm_docs/sd/022284060_sd.pdf"&gt; Data
 <wire x1="-1.245" y1="10.16" x2="-1.245" y2="-8.89" width="0.2" layer="21"/>
 <pad name="7" x="0" y="6.35" drill="1.15" diameter="1.725" rot="R90"/>
 <pad name="8" x="0" y="8.89" drill="1.15" diameter="1.725" rot="R90"/>
-<rectangle x1="-10.53" y1="-1.64" x2="10.53" y2="1.64" layer="39" rot="R90"/>
+<rectangle x1="-11.43" y1="-2.54" x2="11.43" y2="2.54" layer="39" rot="R90"/>
 </package>
 </packages>
 <symbols>
@@ -5162,7 +5162,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/RK73H1ETTP309
 <wire x1="1.245" y1="-10.16" x2="1.245" y2="8.89" width="0.2" layer="21"/>
 <pad name="7" x="0" y="-6.35" drill="1.15" diameter="1.725" rot="R270"/>
 <pad name="8" x="0" y="-8.89" drill="1.15" diameter="1.725" rot="R270"/>
-<rectangle x1="-10.63" y1="-1.64" x2="10.63" y2="1.64" layer="39" rot="R270"/>
+<rectangle x1="-11.43" y1="-2.54" x2="11.43" y2="2.54" layer="39" rot="R270"/>
 </package>
 </packages>
 <symbols>
@@ -5239,7 +5239,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/RK73H1ETTP309
 <pad name="8" x="0" y="8.89" drill="1.15" diameter="1.725" rot="R90"/>
 <pad name="9" x="0" y="11.43" drill="1.15" diameter="1.725" rot="R90"/>
 <pad name="10" x="0" y="13.97" drill="1.15" diameter="1.725" rot="R90"/>
-<rectangle x1="-1.64" y1="-10.53" x2="1.64" y2="15.71" layer="39"/>
+<rectangle x1="-2.54" y1="-11.43" x2="2.54" y2="16.51" layer="39"/>
 </package>
 </packages>
 <symbols>
@@ -5723,11 +5723,6 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/RK73H1ETTP309
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="104,1,-30.48,93.98,IC1,VM,+12V,,,"/>
-<approved hash="104,1,-15.24,73.66,IC1,EP,GND,,,"/>
-<approved hash="104,1,96.52,91.44,J7,VCC,+5V,,,"/>
-</errors>
 </schematic>
 </drawing>
 <compatibility>

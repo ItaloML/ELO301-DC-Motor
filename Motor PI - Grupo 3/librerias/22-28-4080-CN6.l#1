@@ -98,7 +98,7 @@
 <text x="16.51" y="5.08" size="1.778" layer="96" align="center-left">&gt;VALUE</text>
 <pin name="NC" x="0" y="0" length="middle" direction="nc"/>
 <pin name="IOREF" x="0" y="-2.54" length="middle" direction="nc"/>
-<pin name="RESET" x="0" y="-5.08" length="middle" direction="in"/>
+<pin name="RESET" x="0" y="-5.08" length="middle" direction="nc"/>
 <pin name="+3V3" x="0" y="-7.62" length="middle" direction="pwr"/>
 <pin name="+5V" x="0" y="-10.16" length="middle" direction="pwr"/>
 <pin name="GND@1" x="0" y="-12.7" length="middle" direction="pwr"/>

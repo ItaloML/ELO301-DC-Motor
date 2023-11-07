@@ -5162,7 +5162,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/RK73H1ETTP309
 <wire x1="1.245" y1="-10.16" x2="1.245" y2="8.89" width="0.2" layer="21"/>
 <pad name="7" x="0" y="-6.35" drill="1.15" diameter="1.725" rot="R270"/>
 <pad name="8" x="0" y="-8.89" drill="1.15" diameter="1.725" rot="R270"/>
-<rectangle x1="-10.63" y1="-1.64" x2="10.63" y2="1.64" layer="39" rot="R270"/>
+<rectangle x1="-11.43" y1="-2.54" x2="11.43" y2="2.54" layer="39" rot="R270"/>
 </package>
 </packages>
 <symbols>
